@@ -1,0 +1,10 @@
+Administration;
+;
+Startpunkte:;
+;
+A-Masterlauf (A00);Admin_Starte_A_Master
+A-Einzelmodule (A01–A07);Admin_Starte_A_Einzel
+B-Gruppe (Monatssetup);Admin_Starte_B_Monatssetup
+C-Gruppe (Formatierung);Admin_Starte_C_Formatierung
+D-Gruppe (BAO-Integration);Admin_Starte_D_BAOIntegration
+F-Gruppe (Personen-Tools);Admin_Starte_F_PersonenTools

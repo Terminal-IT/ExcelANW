@@ -1,0 +1,14 @@
+Gruppierung;Sortierung;Teamname;Vorname;Nachname;Kürzel;Funktion;Aktiv;BAO_Team;Vollname
+1;A;ZA;Max;Mustermann;MM;Leiter;Ja;EA/F TECHNIK;Max Mustermann
+1;B;ZA;Anna;Beispiel;AB;ISB;Ja;EA/F TECHNIK;Anna Beispiel
+2;A;ZA P/K;Peter;Test1;PT;P/K;Ja;;Peter Test1
+2;B;ZA P/K;Peter;Test2;PT;P/K;Ja;;Peter Test2
+3;A;DV;Peter;Test3;PT;DV/MobiKom;Ja;BAO DV;Peter Test3
+3;B;DV;Peter;Test4;PT;DV/MobiKom;Ja;BAO DV;Peter Test4
+3;C;DV;Peter;Test5;PT;DV;Ja;BAO DV;Peter Test5
+4;A;Funk;Peter;Test6;PT;Funk;Ja;BAO FUNK;Peter Test6
+4;B;Funk;Peter;Test7;PT;Funk;Ja;BAO FUNK;Peter Test7
+5;A;Azubi;Peter;Test8;PT;Azubi;Ja;;Peter Test8
+6;A;MVL;Tom;Tom;TO;Sys;Nein;MVL Bereitschaft;Tom Tom
+6;B;MVL;Fab;Fab;FA;Sys;Nein;MVL Bereitschaft;Fab Fab
+6;C;MVL;Mel;Mel;ME;Sys;Ja;MVL Bereitschaft;Mel Mel
